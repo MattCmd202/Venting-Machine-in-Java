@@ -16,7 +16,7 @@ public class VendingMachine {
         double price = 0.0;
         String item = "";
 
-        if (choice == 1) {
+        if (choice == 1) {    //You can change and add new products here
             price = 1;
             item = "Coca Cola";
         } else if (choice == 2) {
